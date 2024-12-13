@@ -1,1 +1,3 @@
-# Fundamentals-of-Computational-Physics
+# 计算物理基础
+
+本项目为fdu徐长松老师的计算物理基础课程相关作业的仓库，每个文件夹内包括了一个README文件， 描述了作业题目和相关解答
